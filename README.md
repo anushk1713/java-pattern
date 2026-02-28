@@ -9,6 +9,7 @@ A simple Java program to print the following number pattern
 123
 12
 1
+
 Description:
 This program demonstrates how to use nested loops in Java to create a pyramid-like number pattern.
 * The first half prints increasing numbers from 1 to 5.
